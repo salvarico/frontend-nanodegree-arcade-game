@@ -11,3 +11,13 @@ You should use the arrow keys in your keyboard to move to the wanted direction o
 ## Where to play
 
 [Click this link](https://salvarico.github.io/frontend-nanodegree-arcade-game/) to play the game online.
+
+## How to run the project
+
+In the command line you should run
+```shell
+git clone https://github.com/salvarico/frontend-nanodegree-arcade-game
+cd frontend-nanodegree-arcade-game
+open index.html
+```
+and with this you can start playing in your browser! :)
